@@ -10,4 +10,4 @@ information about their sales patterns.
 ### Data
 Open source data from Instacart and a customer data set created for the purpose of this project.
 
-Customers Data Set: https://www.instacart.com/datasets/grocery-shopping-2017
+[Customers Data Set](https://www.instacart.com/datasets/grocery-shopping-2017)
